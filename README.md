@@ -1,4 +1,4 @@
-# Vally
+# WhyVallyAgent
 
 **Valorant performance analysis from raw match data: download a player's archive, compare every metric against the real lobbies (not global averages), extract positional data from maps, write the report.**
 
